@@ -6,7 +6,7 @@
   <dependencies>
     <dependency>
       <groupId>io.vertx</groupId>
-      <version>3.5.0</version>
+      <version>3.5.1</version>
       <artifactId>vertx-unit</artifactId>
     </dependency>
     <dependency>
